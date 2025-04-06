@@ -28,18 +28,20 @@ Desde ahí, se pueden agregar monitores para supervisar servidores, sitios web, 
 
 
 ![](ANEXOS/Pasted%20image%2020250327160534.png)
-Ejemplo con un servidor en express en el puerto 3000 en un vps
+### Ejemplo con un servidor en express en el puerto 3000 en un vps
 
+---
 
 ![](ANEXOS/Pasted%20image%2020250327160616.png)
-Ejemplo con una pagina que queramos monitorizar en este caso marca.com
+### Ejemplo con una pagina que queramos monitorizar en este caso marca.com
+
+---
 
 ![](ANEXOS/Pasted%20image%2020250327161108.png)
+### Cuando corto el servidor de express nos lo muestra como caido
 
-Cuando corto el servidor de express nos lo muestra como caido
-
-
+---
 
 ![](ANEXOS/Imagen%20de%20WhatsApp%202025-03-27%20a%20las%2016.52.38_c9fc57fd.jpg)
 
-Podemos vincularlo con telegram o incluso discord en este caso lo he vinculado con telegram
+### Podemos vincularlo con telegram o incluso discord en este caso lo he vinculado con telegram
