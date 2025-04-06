@@ -15,7 +15,9 @@ docker run -d --restart=always -p 3001:3001 -v uptime-kuma:/app/data --name upti
 
 Una vez ejecutado el contenedor, se puede acceder a la interfaz web desde un navegador en la dirección:
 
+```bash
 http://localhost:3001
+```
 
 Desde ahí, se pueden agregar monitores para supervisar servidores, sitios web, bases de datos y otros servicios.
 
